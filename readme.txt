@@ -5,4 +5,4 @@ this is another change to the file
 third message
 another change
 one more change
-just some more chnages 
+a different change
